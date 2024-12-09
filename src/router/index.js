@@ -6,7 +6,7 @@ import Home2 from '@/components/Home2'
 Vue.use(Router)
 
 export default new Router({
-  mode: "history",
+  // mode: "history",
   routes: [
     {
       path: '/demo1',
